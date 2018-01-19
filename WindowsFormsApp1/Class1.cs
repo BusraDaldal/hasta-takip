@@ -20,6 +20,8 @@ namespace WindowsFormsApp1
         public void YasHesapla()
         {
             yas = DateTime.Now.Year - DogumYili;
+
+            //yashesapla
         }
 
         public void IndirimliUcretHesapla()
